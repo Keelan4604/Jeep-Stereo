@@ -1,1 +1,2 @@
 # Jeep-Stereo
+Just replaced all of the speakers and stock sub in the Jeep with some JBL 629 and 609Cs with the JBL car amp 780w RMS 1800w max and I got a kicker 12" compR 500w RMS 1000w max. Really loud and works well. I had a few problems along the way and the wiring took a while for the amp. I just connected the amp outputs to the stock speaker inputs under the steering wheel so I can still use the speaker quick disconnects.
